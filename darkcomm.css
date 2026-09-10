@@ -22,12 +22,12 @@ verif::after {
 .insta-post {
     width: 400px;
     margin: 20px auto 0;
-    color: black;
+    color: white;
     background-color: #0f1011;
     font-family: Open Sans;
     font-size: .8rem;
     border-radius: 0px 0px 5px 5px;
-    border: 1px solid #dbdbdb;
+    border: 1px solid #1f1f1f;
 }
 
 .insta-post::before {
@@ -35,7 +35,7 @@ verif::after {
     content: "";
     width: 400px;
     height: 53px;
-    background-image: url(https://i14.servimg.com/u/f14/19/36/48/02/darkto10.jpg);
+    background-image: url(https://i14.servimg.com/u/f14/19/36/48/02/d-top10.jpg);
     background-size: cover;
 }
 
@@ -83,7 +83,7 @@ verif::after {
     content: "";
     width: 400px;
     height: 26px;
-    background-image: url(https://i14.servimg.com/u/f14/19/36/48/02/darkdi10.jpg);
+    background-image: url(https://i14.servimg.com/u/f14/19/36/48/02/d-disp10.jpg);
     background-size: cover;
     margin: 10px -15px;
 }
@@ -94,7 +94,7 @@ verif::after {
 
 .post-like hr {
     border: none;
-    border-top: 1px solid #dbdbdb;
+    border-top: 1px solid #1f1f1f;
     margin: 15px 0 -5px;
 }
 
